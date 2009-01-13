@@ -8,12 +8,12 @@ License: GPL/LGPL
 Group: Graphical desktop/Other
 Url: http://sugarlabs.org/
 
-Requires: sugar-toolkit = 0.83.3
-Requires: sugar-base = 0.83.2
-Requires: sugar-artwork = 0.83.2
-Requires: sugar = 0.83.4
-Requires: sugar-datastore = 0.83.1
-Requires: sugar-presence-service = 0.83.2
+Requires: sugar-toolkit >= 0.83.3
+Requires: sugar-base >= 0.83.2
+Requires: sugar-artwork >= 0.83.2
+Requires: sugar >= 0.83.4
+Requires: sugar-datastore >= 0.83.1
+Requires: sugar-presence-service >= 0.83.2
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
