@@ -8,7 +8,7 @@ License: GPL/LGPL
 Group: Graphical desktop/Other
 Url: http://sugarlabs.org/
 
-Requires: sugar-artwork >= 0.84.0
+Requires: sugar-artwork >= 0.84.1
 Requires: sugar-datastore >= 0.84.0
 Requires: sugar-presence-service >= 0.84.0
 Requires: sugar >= 0.84.0
