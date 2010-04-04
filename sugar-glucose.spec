@@ -2,19 +2,19 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name: sugar-glucose
-Version: 0.86.2
+Version: 0.88.0
 Release: %mkrel 1
 Summary: Core Sugar components
 License: GPL/LGPL
 Group: Graphical desktop/Other
 Url: http://sugarlabs.org/
 
-Requires: sugar-artwork >= 0.86.0
-Requires: sugar-datastore >= 0.86.1
-Requires: sugar-presence-service >= 0.86.0
-Requires: sugar >= 0.86.2
-Requires: sugar-base >= 0.86.0
-Requires: sugar-toolkit >= 0.86.1
+Requires: sugar-artwork >= 0.88.0
+Requires: sugar-datastore >= 0.88.0
+Requires: sugar-presence-service >= 0.88.0
+Requires: sugar >= 0.88.0
+Requires: sugar-base >= 0.88.0
+Requires: sugar-toolkit >= 0.88.0
 
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
