@@ -3,7 +3,7 @@
 
 Name: sugar-glucose
 Version: 0.88.0
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Core Sugar components
 License: GPL/LGPL
 Group: Graphical desktop/Other
