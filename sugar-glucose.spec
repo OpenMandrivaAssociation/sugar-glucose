@@ -2,8 +2,8 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name: sugar-glucose
-Version: 0.101.0
-Release: 2
+Version: 0.108.1
+Release: 1
 Summary: Core Sugar components
 License: GPL/LGPL
 Group: Graphical desktop/Other
@@ -16,8 +16,6 @@ Requires: sugar >= 0.88.0
 Requires: sugar-base >= 0.88.0
 Requires: sugar-toolkit >= 0.88.0
 Requires: sugar-toolkit-gtk3 >= 0.98.0
-
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 %description
 Virtual package of core Sugar components that follow the Sugarlabs
