@@ -7,7 +7,7 @@ Release: 1
 Summary: Core Sugar components
 License: GPL/LGPL
 Group: Graphical desktop/Other
-Url: http://sugarlabs.org/
+Url: https://sugarlabs.org/
 
 Requires: sugar-artwork >= 0.88.0
 Requires: sugar-datastore >= 0.88.0
