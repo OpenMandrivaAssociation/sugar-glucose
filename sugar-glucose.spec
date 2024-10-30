@@ -2,7 +2,7 @@
 #       See http://wiki.sugarlabs.org/go/Deployment_Team/jhconvert for details
 
 Name: sugar-glucose
-Version: 0.120
+Version: 0.121
 Release: 1
 Summary: Core Sugar components
 License: GPL/LGPL
